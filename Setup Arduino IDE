@@ -1,0 +1,9 @@
+Download the latest version from www.arduino.com
+After installation down load library file from this link and unzip into /Arduino/library
+open Arduino Program, goto File -> Preferences
+copy URL Board Manager into the Additional Board Manager URLS: block
+URL Board Manager = http://arduino.esp8266.com/stable/package_esp8266com_index.json
+goto Tool -> Boards -> Boards Manager
+enter esp8266 into the fILTER YOUR SEARCH AREA
+THE ESP8266 BY esp8266 Community will on the list, click Install choose version 2.5.0, click install
+Finished.
